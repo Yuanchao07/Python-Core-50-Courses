@@ -2,7 +2,7 @@
 
 ### Python简介
 
-Python是由荷兰人吉多·范罗苏姆（Guido von Rossum，后面都称呼他为Guido）发明的一种编程语言。
+Python是由荷兰人吉多·范罗苏 姆（Guido von Rossum，后面都称呼他为Guido）发明的一种编程语言。涛哥牛逼
 
 #### Python的历史
 
